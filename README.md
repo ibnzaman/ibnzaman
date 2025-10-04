@@ -185,7 +185,7 @@ MongoDB         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜    65%
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/rafiqibnzaman/rafiqibnzaman/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
+  <img src="https://github.com/ibnzaman/ibnzaman/blob/output/github-contribution-grid-snake.svg" alt="Contribution Graph" />
 </div>
 
 ---
@@ -194,7 +194,7 @@ MongoDB         🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜    65%
 > "The web is what you make of it. Make it amazing." — Rafiq Ibn Zaman
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafiqibnzaman&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ibnzaman&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
