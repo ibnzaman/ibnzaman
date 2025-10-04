@@ -22,18 +22,7 @@
 
 > A passionate Frontend Developer specializing in building dynamic, user-friendly, and SEO-optimized websites. With expertise in theme customization, plugin integration, and responsive design, I help businesses grow with professional web solutions.
 
-<div align="center">
-```javascript
-const rafiq = {
-  pronouns: "he" | "him",
-  code: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Node.js"],
-  tools: ["Redux Toolkit", "Tailwind CSS", "Firebase", "MongoDB", "Express"],
-  architecture: ["Responsive Design", "SEO Optimization", "REST APIs"],
-  currentFocus: "Building amazing user experiences",
-  funFact: "I turn coffee into code ☕ → 💻"
-}
-```
-</div>
+
 
 ---
 
@@ -79,17 +68,17 @@ const rafiq = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafiqibnzaman&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqibnzaman&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=rafiqibnzaman&repo=project-1&theme=radical" alt="Pinned Project" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ibnzaman&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnzaman&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=ibnzaman&repo=project-1&theme=radical" alt="Pinned Project" />
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiqibnzaman&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnzaman&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiqibnzaman&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibnzaman&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -97,7 +86,7 @@ const rafiq = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafiqibnzaman&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibnzaman&theme=radical&no-frame=true&row=2&column=4" alt="Trophies" />
 </div>
 
 ---
