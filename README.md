@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rafiq%20Ibn%20Zaman&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rafiq%20Ibn%20Zaman&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Front-End%20%20Web%20Developer&descSize=20&descAlignY=55" />
   
   <!-- Dynamic Typing Animation -->
  <div align="center">
