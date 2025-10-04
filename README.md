@@ -10,10 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Rafiq+Ibn+Zaman+💻;Frontend+Developer+🚀;Web+Solutions+Expert+⭐" alt="Typing SVG" />
 </div>
 
-  <!-- Profile Image with Border Animation -->
-  <div align="center">
-    <img height="160" src="https://i.ibb.co.com/DgKxfn4m/moniruzzaman.png" alt="Profile" style="border-radius: 50%; border: 3px solid #00ff88; box-shadow: 0 0 20px #00ff88, 0 0 40px #0088ff;" />
-  </div>
 
 </div>
 
