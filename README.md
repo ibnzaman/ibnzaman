@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rafiq%20Ibn%20Zaman&fontSize=40&fontAlignY=35&animation=fadeIn&desc=WordPress%20Developer%20%26%20SEO%20Specialist&descSize=20&descAlignY=55" />
-  
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rafiq%20Ibn%20Zaman&fontSize=40&fontAlignY=35&animation=fadeIn&desc=WordPress%20Developer%20%26%20SEO%20Specialist&descSize=20&descAlignY=55" />
+
   <!-- Dynamic Typing Animation -->
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;I'm+Rafiq+Ibn+Zaman+💻;WordPress+Developer+🚀;SEO+Specialist+🔍" alt="Typing SVG" />
