@@ -114,7 +114,7 @@ I build *high-performance, SEO-optimized WordPress websites* that rank higher, l
 
 <!-- ===================== SNAKE CONTRIBUTION ANIMATION ===================== -->
 <p align="center">
-  <img src="https://github.com/ibnzaman/ibnzaman/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/ibnzaman/ibnzaman/blob/main/.github/workflows/snake.yml" alt="snake animation" />
 </p>
 
 <!-- ===================== NEON FOOTER ===================== -->
